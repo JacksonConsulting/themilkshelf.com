@@ -1,4 +1,5 @@
 baseurl = "https://themilkshelf.com/"
 languageCode = "en-us"
 title = "The Milk Shelf MN"
+themesDir = "themes"
 theme = "hugo-tracks-theme"
