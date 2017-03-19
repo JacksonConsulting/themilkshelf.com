@@ -1,0 +1,4 @@
+baseurl = "https://themilkshelf.com/"
+languageCode = "en-us"
+title = "The Milk Shelf MN"
+theme = "beautifulhugo"
