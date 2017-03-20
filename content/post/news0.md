@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/banner.png"
 date = "2017-03-20"
 title = "Visit Our Facebook Page"
 weight = 0

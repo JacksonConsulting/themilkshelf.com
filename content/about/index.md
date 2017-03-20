@@ -14,4 +14,4 @@ Together we can streamline the process of milk donation and create a better way 
 
 ![banner][1]
 
-[1]: /img/banner.jpg
+[1]: /img/banner.png
