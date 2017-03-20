@@ -1,21 +1,17 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+date = "2017-03-20"
+title = "About"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+Welcome to The Milk Shelf where we match mamas in need and donors with local Freezer Moms in their area for milk donation and milk pick up. To help alleviate some of the stress and heartbreak of seeking milk, mamas will be notified when a Freezer in their area has milk for pick up. In addition to services for those in need, donors will also be notified when a Freezer near them has space for storage.
+This page is here to provide relief and safe storage for every mama who would like to donate, or receive milk. People seeking milk will be added to the group so that they can receive notifications, and donors can have the choice of donating anonymously or publicly, and will be added to the group upon request.
+When added please state whether you are a donor, donee, or wanting to be a Freezer Mom. Please add your general location so that we can start organizing Freezers, supply, and demand! Also, turn on your notification settings for this group so you can remain updated on all of the information!
+Since this is a nonprofit group based on donation, we would like to encourage mamas who receive milk to donate lay flat storage bags to their Freezer Mama location so that the mamas donating can have more bags to donate their milk with. This is not something that you have to do, but it would be greatly appreciated.
+Anyone who would like to donate freezer space can also be added to the group and will need to fill out a location form and days and times that pick ups and drop off will work for them. They can also have a set up by appointment schedule as well.
+Each donor will be given a private donor number upon donation and will need to fill out a form that is signed stating that their milk is safe for donation. The form will include questions about diet, and medications being taken as well as possible communicable diseases.
+Each Donee recipient will also fill out a form that states that they are taking the milk of their own risk and that the donor will not be held liable. The donee form will also include questions about what type of milk you need and your location.
+Together we can streamline the process of milk donation and create a better way to help mamas donate and receive breastmilk.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+![banner][1]
 
-![This is me][1]
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-#### Education
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
-
-[1]: /img/about.jpg
+[1]: /img/banner.jpg
