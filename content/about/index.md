@@ -2,6 +2,7 @@
 date = "2017-03-20"
 title = "About"
 +++
+![banner][1]
 
 Welcome to The Milk Shelf where we match mamas in need and donors with local Freezer Moms in their area for milk donation and milk pick up. To help alleviate some of the stress and heartbreak of seeking milk, mamas will be notified when a Freezer in their area has milk for pick up. In addition to services for those in need, donors will also be notified when a Freezer near them has space for storage.
 This page is here to provide relief and safe storage for every mama who would like to donate, or receive milk. People seeking milk will be added to the group so that they can receive notifications, and donors can have the choice of donating anonymously or publicly, and will be added to the group upon request.
@@ -12,6 +13,6 @@ Each donor will be given a private donor number upon donation and will need to f
 Each Donee recipient will also fill out a form that states that they are taking the milk of their own risk and that the donor will not be held liable. The donee form will also include questions about what type of milk you need and your location.
 Together we can streamline the process of milk donation and create a better way to help mamas donate and receive breastmilk.
 
-![banner][1]
+
 
 [1]: /img/banner.png
