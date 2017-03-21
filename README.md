@@ -1,10 +1,3 @@
-themilkshelf.com
+#themilkshelf.com
 
-mywebsite
-|   archetypes
-|   config.toml
-|   content
-|   data
-|   layouts
-|   static
-|   themes
+[![CircleCI](https://circleci.com/gh/JacksonConsulting/themilkshelf.com.svg?style=svg)](https://circleci.com/gh/JacksonConsulting/themilkshelf.com)
