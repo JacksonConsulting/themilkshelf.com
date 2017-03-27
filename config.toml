@@ -1,6 +1,6 @@
 baseurl = "https://themilkshelf.com/"
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-60119459-2"
 languageCode = "en-us"
 theme = "hugo-tracks-theme"
 title = "The Milk Shelf MN"
